@@ -92,7 +92,7 @@
     "offline-plugin": "^5.0.5",
     "polished": "^2.0.1",
     "prop-types": "^15.6.1",
-    "react": "^16.0.0",
+    "react": "^16.6.3",
     "react-dom": "^16.0.0",
     "react-fastclick": "^3.0.2-alpha.1",
     "react-helmet": "^5.0.3",
