@@ -4240,10 +4240,10 @@ flow-annotation-check@1.8.0:
     glob "7.1.1"
     load-pkg "^3.0.1"
 
-flow-bin@^0.78.0:
-  version "0.78.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.78.0.tgz#df9fe7f9c9a2dfaff39083949fe2d831b41627b7"
-  integrity sha512-LV55tE+ItkC9HQAbEK+VxpBe54Ryp/dj4q9KmqDIfhV7mtP+hbvc/1AUf/AaWFIve3eURO0cxoGN4ZQQ3o2HTg==
+flow-bin@^0.88.0:
+  version "0.88.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.88.0.tgz#e4c7bd93da2331f6ac1733fbe484b1b0c52eb548"
+  integrity sha512-SnUCuhHP0JZaXQ83w4iTthfTInAg8DIBZCo1xIqDhFmQ6XNEMYMwYhPoMQyELRrkbTpyCYmf4g93y0UQw0dibw==
 
 flush-write-stream@^1.0.0:
   version "1.0.3"
@@ -7145,10 +7145,10 @@ normalize-path@^2.0.1, normalize-path@^2.1.1:
   dependencies:
     remove-trailing-separator "^1.0.1"
 
-normalizr@^3.2.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/normalizr/-/normalizr-3.2.2.tgz#542e915a260ca53279b76a63fb554185e9225f90"
-  integrity sha1-VC6RWiYMpTJ5t2pj+1VBhekiX5A=
+normalizr@3.2.4:
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/normalizr/-/normalizr-3.2.4.tgz#16aafc540ca99dc1060ceaa1933556322eac4429"
+  integrity sha1-Fqr8VAypncEGDOqhkzVWMi6sRCk=
 
 npm-bundled@^1.0.1:
   version "1.0.3"
@@ -10430,9 +10430,10 @@ webpack-dev-server@^3.1.9:
     webpack-log "^2.0.0"
     yargs "12.0.2"
 
-webpack-hot-middleware@^2.24.3:
+webpack-hot-middleware@^2.22.2:
   version "2.24.3"
   resolved "https://registry.yarnpkg.com/webpack-hot-middleware/-/webpack-hot-middleware-2.24.3.tgz#5bb76259a8fc0d97463ab517640ba91d3382d4a6"
+  integrity sha512-pPlmcdoR2Fn6UhYjAhp1g/IJy1Yc9hD+T6O9mjRcWV2pFbBjIFoJXhP0CoD0xPOhWJuWXuZXGBga9ybbOdzXpg==
   dependencies:
     ansi-html "0.0.7"
     html-entities "^1.2.0"
